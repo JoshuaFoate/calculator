@@ -117,7 +117,7 @@ buttons.forEach((button) => {
 
 // Display function
 
-const body = document.querySelector('body')
+const body = document.querySelector('.digits')
 displayNumber = document.createElement('div');
 displayNumber.classList.add('display');
 function display(number) {
