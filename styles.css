@@ -44,7 +44,7 @@ body {
     justify-content: center;
 }
 
-button {
+.clearButton {
     font-size: 30px;
     color: black;
 }
