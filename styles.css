@@ -89,7 +89,7 @@ body {
     justify-content: center;
 }
 
-#clearButton {
+button {
     font-size: 30px;
     color: black;
 }
