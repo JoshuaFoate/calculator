@@ -15,10 +15,12 @@ body {
 
 .digits button {
     background-color: orange;
+    color: black;
 }
 
 .digits #clearButton {
     background-color: teal;
+    color: black;
     font-size: 25px;
 }
 
@@ -29,6 +31,7 @@ body {
 
 .operations button {
     background-color: lightgreen;
+    color: black;
 }
 
 .clear {
@@ -46,5 +49,4 @@ body {
 
 button {
     font-size: 30px;
-    color: black;
 }
