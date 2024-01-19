@@ -52,3 +52,7 @@ body {
 button {
     font-size: 30px;
 }
+
+button:hover {
+    color: red;
+}
